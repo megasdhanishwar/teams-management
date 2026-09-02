@@ -1,33 +1,33 @@
 const members = [
   {
     id: 1,
-    name: "Arun Kumar",
+    name: "Harish Kumar",
     role: "Frontend Developer",
-    initials: "AK",
+    initials: "HK",
   },
   {
     id: 2,
-    name: "Priya Sharma",
+    name: "Priya Dharshini",
     role: "UI/UX Designer",
-    initials: "PS",
+    initials: "PD",
   },
   {
     id: 3,
-    name: "Rahul Verma",
+    name: "Naveen Kumar",
     role: "Backend Developer",
-    initials: "RV",
+    initials: "NK",
   },
   {
     id: 4,
-    name: "Sneha Reddy",
+    name: "Sri Harini",
     role: "Project Manager",
-    initials: "SR",
+    initials: "SH",
   },
   {
     id: 5,
-    name: "Vikram Singh",
+    name: "Rishi Kumar",
     role: "QA Engineer",
-    initials: "VS",
+    initials: "RK",
   },
   {
     id: 6,
